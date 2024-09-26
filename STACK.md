@@ -1,1 +1,24 @@
 # Tecnologias Utilizadas
+
+- UI/UX
+  - Figma
+- Frontend
+  - JavaScript
+  - Vue
+  - Vite
+  - Vitest
+- Backend
+  - Go
+  - GoGin
+  - Viper
+  - SQL Server
+  - Testify
+- DevOPS
+  - NGINX
+  - Docker
+  - GitHub Actions
+  - Certbot Let's Encrypt
+  - Azure Container Registry
+  - Azure Virtual Machine
+  - Azure SQL Database
+  - Azure Blob Storage
